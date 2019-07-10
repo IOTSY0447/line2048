@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineTap a dot to double it",
+    "texture": "f8b67a4c-bace-47ff-abb8-ae256d7ecc00",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      357,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      357,
+      30
+    ]
+  }
+}

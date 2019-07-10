@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinefeedbackBtnFloor04",
+    "texture": "8b92900c-4ffd-444b-a822-3eff1ed82d26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      307,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      307,
+      83
+    ]
+  }
+}

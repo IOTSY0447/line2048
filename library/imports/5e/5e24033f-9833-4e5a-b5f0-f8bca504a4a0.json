@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinethemesOkBtn",
+    "texture": "1be23b5b-9eba-4171-9c86-d9957864d9ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      83
+    ]
+  }
+}

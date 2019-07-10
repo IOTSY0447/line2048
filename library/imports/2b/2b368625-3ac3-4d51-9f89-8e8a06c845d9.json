@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineTap a dot to continue",
+    "texture": "879a7324-879e-4a93-b4e7-45855b4f2186",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      263,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      263,
+      30
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinehammer light004",
+    "texture": "3e87c25b-4e9e-49b6-834e-d641cfec677f",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      86,
+      95
+    ],
+    "offset": [
+      -2.5,
+      1
+    ],
+    "originalSize": [
+      97,
+      97
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinegame002",
+    "texture": "cf49f559-2427-4c3d-80e7-eceabf0952b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      539,
+      604
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      539,
+      604
+    ]
+  }
+}

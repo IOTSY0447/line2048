@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinethemes",
+    "texture": "7e9e9504-eeee-4aee-a98c-caac75ec9a77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      446,
+      526
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      446,
+      526
+    ]
+  }
+}

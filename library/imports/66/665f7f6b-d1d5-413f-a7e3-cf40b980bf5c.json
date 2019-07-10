@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineremoveAdsBtn",
+    "texture": "64f1fac3-05d0-4d12-bfbc-ea699c8b6218",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      111
+    ]
+  }
+}

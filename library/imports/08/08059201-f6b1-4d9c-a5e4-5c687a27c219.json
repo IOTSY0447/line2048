@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinesettingOffBtn",
+    "texture": "7c6ee3b4-8ab3-4b3a-8050-7c9728413d8a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      58
+    ]
+  }
+}

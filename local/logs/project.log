@@ -1,0 +1,52 @@
+2019-07-10T01:18:02.425Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-10T01:18:02.428Z - normal: checking language setting...
+2019-07-10T01:18:02.428Z - normal: Language: zh
+2019-07-10T01:18:03.132Z - success: protocol editor-framework registered
+2019-07-10T01:18:03.132Z - success: protocol app registered
+2019-07-10T01:18:03.133Z - success: protocol theme registered
+2019-07-10T01:18:03.133Z - success: protocol packages registered
+2019-07-10T01:18:03.133Z - success: protocol unpack registerred
+2019-07-10T01:18:03.133Z - success: protocol disable-commonjs registerred
+2019-07-10T01:18:03.297Z - normal: connected!
+2019-07-10T01:18:03.299Z - normal: Check project /Users/mac/Downloads/line2048
+2019-07-10T01:18:03.300Z - normal: Initializing Cocos2d
+2019-07-10T01:18:03.530Z - normal: Initializing Asset Database
+2019-07-10T01:18:03.562Z - success: protocol uuid registerred
+2019-07-10T01:18:03.563Z - success: protocol db registerred
+2019-07-10T01:18:03.563Z - success: protocol thumbnail registerred
+2019-07-10T01:18:03.563Z - normal: Loading editor/builtin packages
+2019-07-10T01:18:03.587Z - success: anysdk loaded
+2019-07-10T01:18:03.696Z - success: assets loaded
+2019-07-10T01:18:03.699Z - success: builder loaded
+2019-07-10T01:18:03.702Z - success: cocos-analytics loaded
+2019-07-10T01:18:03.706Z - success: console loaded
+2019-07-10T01:18:03.710Z - success: hierarchy loaded
+2019-07-10T01:18:03.715Z - success: inspector loaded
+2019-07-10T01:18:03.717Z - success: keystore loaded
+2019-07-10T01:18:03.721Z - success: node-library loaded
+2019-07-10T01:18:03.723Z - success: package-asset loaded
+2019-07-10T01:18:03.726Z - success: preferences loaded
+2019-07-10T01:18:03.728Z - success: project-exporter loaded
+2019-07-10T01:18:03.744Z - success: project-importer loaded
+2019-07-10T01:18:03.746Z - success: project-settings loaded
+2019-07-10T01:18:03.749Z - success: ui-kit loaded
+2019-07-10T01:18:03.753Z - success: ui-grid loaded
+2019-07-10T01:18:03.757Z - success: scene loaded
+2019-07-10T01:18:03.758Z - success: sprite-editor loaded
+2019-07-10T01:18:03.763Z - success: store loaded
+2019-07-10T01:18:03.768Z - success: timeline loaded
+2019-07-10T01:18:03.768Z - normal: Loading builtin packages
+2019-07-10T01:18:03.772Z - success: asset-db-debugger loaded
+2019-07-10T01:18:03.773Z - success: color-picker loaded
+2019-07-10T01:18:03.776Z - success: package-manager loaded
+2019-07-10T01:18:03.834Z - success: sdkbox loaded
+2019-07-10T01:18:03.841Z - success: tester loaded
+2019-07-10T01:18:03.845Z - success: ui-kit-preview-extra loaded
+2019-07-10T01:18:03.848Z - success: ui-kit-preview loaded
+2019-07-10T01:18:03.851Z - success: ui-tree loaded
+2019-07-10T01:18:04.727Z - normal: Initializing project /Users/mac/Downloads/line2048
+2019-07-10T01:18:04.729Z - normal: Loading packages
+2019-07-10T01:18:04.733Z - normal: Watching packages
+2019-07-10T01:18:04.741Z - normal: Run Application
+2019-07-10T01:18:05.615Z - success: preview server running at http://localhost:7456
+2019-07-10T01:18:09.303Z - normal: 1.8.1

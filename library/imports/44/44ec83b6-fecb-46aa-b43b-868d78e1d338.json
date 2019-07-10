@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinebest",
+    "texture": "2de54f45-6525-4672-90d0-a29ac0310e39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      26
+    ]
+  }
+}

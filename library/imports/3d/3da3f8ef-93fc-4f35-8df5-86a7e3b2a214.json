@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineplay002",
+    "texture": "923ac33c-8cad-4dea-a24f-e8dce7646dd3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      282,
+      282
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      282,
+      282
+    ]
+  }
+}

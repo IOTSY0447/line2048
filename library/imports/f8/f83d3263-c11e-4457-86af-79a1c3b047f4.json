@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinegenius",
+    "texture": "44e66cb5-8676-414d-aba9-a51ca6e73f7b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      235,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      235,
+      47
+    ]
+  }
+}

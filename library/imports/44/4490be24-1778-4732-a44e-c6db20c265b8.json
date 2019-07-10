@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinesettingsBtnFloor03",
+    "texture": "44f3153f-8158-4a0a-9f1c-daf73e961951",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      111
+    ]
+  }
+}

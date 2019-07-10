@@ -1,2 +1,2 @@
-# line2048
-别人写的2048，语言js
+# hello-world
+Hello world new project template.

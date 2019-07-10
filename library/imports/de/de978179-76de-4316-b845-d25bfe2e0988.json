@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineNO ads002",
+    "texture": "6284ac36-60f6-4e3b-a026-637912d6b79d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      129
+    ],
+    "offset": [
+      0,
+      2.5
+    ],
+    "originalSize": [
+      194,
+      134
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinestatistics",
+    "texture": "995553ba-2035-49f0-972f-36bd7d914764",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      532,
+      539
+    ],
+    "offset": [
+      0,
+      88
+    ],
+    "originalSize": [
+      532,
+      719
+    ]
+  }
+}

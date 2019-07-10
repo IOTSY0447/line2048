@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinedialogue004",
+    "texture": "8b4eb2b3-eb2b-415a-92dc-e094e9a1ab13",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      503,
+      172
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      503,
+      172
+    ]
+  }
+}

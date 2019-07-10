@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinereviveWatchAdsBtn",
+    "texture": "3490dadf-0b79-4de7-93b2-1b4e191acc9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      83
+    ]
+  }
+}

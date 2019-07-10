@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineLOGO",
+    "texture": "c52d1224-4d6e-4ad8-ac1e-e38a7380ca49",
+    "atlas": "",
+    "rect": [
+      11,
+      11,
+      575,
+      98
+    ],
+    "offset": [
+      -1,
+      -1
+    ],
+    "originalSize": [
+      599,
+      118
+    ]
+  }
+}

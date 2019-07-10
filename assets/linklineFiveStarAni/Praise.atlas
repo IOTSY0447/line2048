@@ -1,0 +1,41 @@
+
+Praise.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 30
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+duandai
+  rotate: false
+  xy: 2, 175
+  size: 383, 79
+  orig: 383, 79
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 2, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 2, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 387, 226
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "af6045d5-42e8-498b-84e6-6531a53d42d2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "linklinehammer light002": {
+      "ver": "1.0.3",
+      "uuid": "dc5e189a-dc4a-4b9f-9ede-a7976a35a2d9",
+      "rawTextureUuid": "af6045d5-42e8-498b-84e6-6531a53d42d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -19.5,
+      "offsetY": 14,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 58,
+      "height": 69,
+      "rawWidth": 97,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

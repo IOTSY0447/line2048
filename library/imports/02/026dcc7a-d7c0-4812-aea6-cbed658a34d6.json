@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinemask",
+    "texture": "47046e26-1dc2-4d4c-9a48-b8fe96d1df9a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      852,
+      1386
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      852,
+      1386
+    ]
+  }
+}

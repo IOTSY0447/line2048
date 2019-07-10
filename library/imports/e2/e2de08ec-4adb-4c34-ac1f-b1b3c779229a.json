@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinegreat",
+    "texture": "72409c61-ed80-4dd1-b421-c960312b50b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      205,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      205,
+      47
+    ]
+  }
+}

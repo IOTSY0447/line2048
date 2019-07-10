@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineTap a dot to remove it away",
+    "texture": "68bb0601-7512-4ad3-a629-36f6d853c720",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      462,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      462,
+      30
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinerestorePurchaseBtn",
+    "texture": "15dbe491-975d-4d17-9151-71f4fd8ccaf2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      91
+    ]
+  }
+}

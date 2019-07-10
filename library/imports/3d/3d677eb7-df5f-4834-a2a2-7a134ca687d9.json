@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinewow",
+    "texture": "5411fba0-03ae-4ba7-8039-79cefbc93ea8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      139,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      139,
+      38
+    ]
+  }
+}

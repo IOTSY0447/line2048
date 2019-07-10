@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8879408f-8b17-4f12-b390-cf24d27f5412",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "linklinescoreGameCenter": {
+      "ver": "1.0.3",
+      "uuid": "ea6d55c3-4b9b-4fc9-9180-42ca33154445",
+      "rawTextureUuid": "8879408f-8b17-4f12-b390-cf24d27f5412",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 85,
+      "height": 85,
+      "rawWidth": 85,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

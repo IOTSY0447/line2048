@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinescore001",
+    "texture": "6536a019-6d7a-4bd5-b95e-8ab1ed25988a",
+    "atlas": "",
+    "rect": [
+      0,
+      95,
+      336,
+      103
+    ],
+    "offset": [
+      0,
+      -46.5
+    ],
+    "originalSize": [
+      336,
+      200
+    ]
+  }
+}

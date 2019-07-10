@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinewellDone",
+    "texture": "fafd4388-3d10-404b-a7f8-4cc0d13f0cc7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      348,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      348,
+      47
+    ]
+  }
+}

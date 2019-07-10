@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinelight001",
+    "texture": "e31362d9-f94e-4418-b682-a0aee5caefa9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      44
+    ],
+    "offset": [
+      -28.5,
+      26.5
+    ],
+    "originalSize": [
+      97,
+      97
+    ]
+  }
+}

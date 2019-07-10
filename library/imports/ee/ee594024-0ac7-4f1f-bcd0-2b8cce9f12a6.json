@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinehelp 002",
+    "texture": "9ffb5592-6dc8-499c-a21d-7481c9e46399",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      427,
+      727
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      427,
+      727
+    ]
+  }
+}

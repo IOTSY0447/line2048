@@ -1,0 +1,167 @@
+
+guidance.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++16
+  rotate: false
+  xy: 65, 13
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
++32
+  rotate: false
+  xy: 872, 88
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+X2
+  rotate: false
+  xy: 65, 44
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 191, 61
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+cuizi
+  rotate: false
+  xy: 128, 44
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+number 0
+  rotate: false
+  xy: 989, 80
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+number 16
+  rotate: false
+  xy: 943, 80
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+number 32
+  rotate: false
+  xy: 136, 5
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+number 4
+  rotate: false
+  xy: 265, 61
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+number 8
+  rotate: true
+  xy: 872, 60
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+round 16A
+  rotate: false
+  xy: 432, 64
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+round 16B
+  rotate: false
+  xy: 487, 64
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+round 2A
+  rotate: false
+  xy: 542, 64
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+round 2B
+  rotate: false
+  xy: 597, 64
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+round 2C
+  rotate: false
+  xy: 191, 45
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+round 32A
+  rotate: false
+  xy: 652, 64
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+round 32B
+  rotate: false
+  xy: 707, 64
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+round 4A
+  rotate: false
+  xy: 762, 64
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+round 4B
+  rotate: false
+  xy: 817, 64
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+round 4C
+  rotate: false
+  xy: 234, 45
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+round 8A
+  rotate: false
+  xy: 322, 63
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+round 8B
+  rotate: false
+  xy: 377, 63
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 2, 2
+  size: 61, 115
+  orig: 61, 115
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinescoreRemoveAdsFloor",
+    "texture": "3deb9c17-4c64-492f-af28-3fe8b2c6aba8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      372,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      372,
+      85
+    ]
+  }
+}

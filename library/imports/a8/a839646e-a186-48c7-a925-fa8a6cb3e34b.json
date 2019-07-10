@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineconnectLoading04",
+    "texture": "a79ff8e0-0194-4e3a-aa1d-7cdcf2f729ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      84
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinereviewFloor",
+    "texture": "0564ae96-479b-480b-90e1-443326cd87db",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      532,
+      514
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      533,
+      514
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e85d71d3-c4a7-4ecf-aba5-e96ff75f0d5d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "linklinegame001": {
+      "ver": "1.0.3",
+      "uuid": "5bd0d059-23c4-47dd-8a72-8554e66a9101",
+      "rawTextureUuid": "e85d71d3-c4a7-4ecf-aba5-e96ff75f0d5d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 852,
+      "height": 1386,
+      "rawWidth": 852,
+      "rawHeight": 1386,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

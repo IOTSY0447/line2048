@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineballK",
+    "texture": "6247aa1f-f86f-4734-965e-d1c0f952810c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      89
+    ]
+  }
+}

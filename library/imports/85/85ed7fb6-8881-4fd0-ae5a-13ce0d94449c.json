@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineohmy",
+    "texture": "88a0f614-a430-47d1-9ca4-55a98b5e01bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      47
+    ]
+  }
+}

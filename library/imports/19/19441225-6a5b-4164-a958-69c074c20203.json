@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinemedal",
+    "texture": "6b42085b-83dc-4b87-9258-b06316cf0479",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      82
+    ]
+  }
+}

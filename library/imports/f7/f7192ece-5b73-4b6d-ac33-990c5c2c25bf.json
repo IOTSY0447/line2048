@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinesettings",
+    "texture": "d1ed1f62-9c8f-4596-85d8-55c1986bf60b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      446,
+      771
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      446,
+      771
+    ]
+  }
+}

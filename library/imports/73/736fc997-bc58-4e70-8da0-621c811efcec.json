@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineschedule002",
+    "texture": "d0b0a2d7-764d-4796-8d1d-577470b9d127",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      339,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      339,
+      39
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3490dadf-0b79-4de7-93b2-1b4e191acc9c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "linklinereviveWatchAdsBtn": {
+      "ver": "1.0.3",
+      "uuid": "f8ed5b81-ae75-4c38-8499-abc0af816719",
+      "rawTextureUuid": "3490dadf-0b79-4de7-93b2-1b4e191acc9c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 184,
+      "height": 83,
+      "rawWidth": 184,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

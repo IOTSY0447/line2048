@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineunbelievable",
+    "texture": "832dc5d6-a399-42df-8afa-d2ec7262ec94",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      446,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      446,
+      47
+    ]
+  }
+}

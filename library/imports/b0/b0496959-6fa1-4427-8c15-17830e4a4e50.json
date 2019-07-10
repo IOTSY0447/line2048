@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinepauseRestart",
+    "texture": "afc363f6-7c40-456d-8217-faf1bce7b170",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      289,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      289,
+      88
+    ]
+  }
+}

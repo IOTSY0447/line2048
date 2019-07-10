@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineno internet",
+    "texture": "b0d8ddd7-54cf-458d-bbd8-c89a76c4b2e5",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      449,
+      322
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      450,
+      322
+    ]
+  }
+}

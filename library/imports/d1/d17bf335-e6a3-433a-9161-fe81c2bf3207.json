@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinepauseBtnFloor",
+    "texture": "75758887-2c2e-44d8-9191-9448d6265265",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      289,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      289,
+      88
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinecrown",
+    "texture": "bd365dc8-3301-4754-837a-2f39a5859c06",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      66
+    ]
+  }
+}

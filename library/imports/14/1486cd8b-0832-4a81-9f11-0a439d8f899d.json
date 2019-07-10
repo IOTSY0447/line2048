@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklineWritten words001",
+    "texture": "72d7e66f-50c5-49da-807b-32c1033d069e",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      851,
+      274
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      852,
+      274
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinetarpped butt001",
+    "texture": "47c9fbea-c3fc-45e8-a4f1-de2151d06fe6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      83
+    ]
+  }
+}

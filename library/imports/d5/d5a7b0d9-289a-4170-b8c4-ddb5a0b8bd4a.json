@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinetarpped",
+    "texture": "21108483-da49-4378-86a0-6550c4ec39b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      446,
+      493
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      446,
+      493
+    ]
+  }
+}

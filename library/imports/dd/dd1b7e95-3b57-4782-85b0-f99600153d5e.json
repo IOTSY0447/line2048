@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinerevive",
+    "texture": "7db3ff45-107e-4b6f-bbf2-a121540e4876",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      446,
+      525
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      446,
+      525
+    ]
+  }
+}

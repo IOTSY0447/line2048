@@ -1,0 +1,19 @@
+{
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "2for2048_build",
+  "debug": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "link",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "includeEruda": false,
+  "androidStudio": true
+}

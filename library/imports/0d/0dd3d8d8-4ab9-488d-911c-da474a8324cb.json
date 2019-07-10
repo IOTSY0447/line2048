@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linklinecountTimeFloor01",
+    "texture": "7967a5c9-be70-43e9-babe-0204e87fa171",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      195,
+      195
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      195,
+      195
+    ]
+  }
+}
